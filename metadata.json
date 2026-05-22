@@ -1,0 +1,6 @@
+{
+  "name": "Exchange-Based Net Stock Analyzer",
+  "description": "An advanced Indian market analyzer (ENSA) identifying stocks with institutional buying, high volume spikes, and order-book imbalance, featuring a live trading simulator and a historical backtester.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
